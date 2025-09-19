@@ -1972,3 +1972,14 @@
     - NestJS
   made_by: Open Self Service team
   made_by_url: https://github.com/o2sdev/openselfservice
+  - title: Selljam.ai
+  url: https://selljam.ai
+  description: Strapi 5 powered collection of tools, guides and resources for online sellers. 
+  categories:
+    - Tools
+    - Directory
+    - Content
+  frontend:
+    - Astro.js
+  made_by: James Mew
+  made_by_url: https://jamesmew.com
